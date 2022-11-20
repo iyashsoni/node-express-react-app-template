@@ -1,0 +1,22 @@
+{
+  "name": "cos-usage-prediction-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd client && npm run build",
+    "start": "nodemon index.js"
+  },
+  "author": {
+    "email": "yashsoni21@in.ibm.com",
+    "name": "Yash Soni"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
