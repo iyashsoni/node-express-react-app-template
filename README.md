@@ -1,6 +1,6 @@
-# cos-usage-prediction-ui
+# node-express-react-app-template
 
-This is the frontend of the prediction engine for COS usage.
+This is template for node-express-react web app with approriate wiring / proxying
 
 # how to run?
 
@@ -12,7 +12,7 @@ Command:
 1. `npm i` (skip if already done)
 2. `npm run build`
 3. `npm run start`
-4. goto: [link](http://localhost:2109)
+4. goto: [link](http://localhost:8080)
 
 ### client and server in parallel
 
